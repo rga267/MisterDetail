@@ -1,3 +1,7 @@
+# To View
+
+visit http://169.57.85.189:32743/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
