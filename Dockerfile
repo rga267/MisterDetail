@@ -5,7 +5,7 @@ WORKDIR /app
 COPY package.json /app
 COPY package-lock.json /app
 RUN npm install
-RUN npm install --save reactstrap 
+RUN npm install --save reactstrap
 RUN npm install --save react-router-dom
 RUN npm install --save react react-dom react-scripts
 COPY . /app
