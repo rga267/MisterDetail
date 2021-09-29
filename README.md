@@ -7,4 +7,4 @@ Currently still under development, some buttons or pages may not do anything at 
 
 *no longer deployed on IBM CLoud due to costs
 
-View at
+View at https://rga267.github.io/MisterDetail/.
