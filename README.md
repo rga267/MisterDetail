@@ -1,15 +1,10 @@
-# To View
 
-visit http://169.57.85.189:32743/
+This project is a single page web application. Containerized using Dockerfile and deployed on IBM Cloud Kubernetes. Built using React, Bootstrap, HTML, CSS and JavaScript.
 
-# Getting Started with Create React App
+MisterDetail serves as a home page for Mister Detail car detailing services. It displays their services, prices, availability, and contact information.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Currently still under development, some buttons or pages may not do anything at the moment.
 
-# Purpose
+*no longer deployed on IBM CLoud due to costs
 
-This project is a single page web application. It was containerized using Dockerfile and deployed on IBM Cloud Kubernetes. The source code is mainly react and bootstrapped with reactstrap.
-
-It contains a Home page for Mister Detail car detailing services with their services provided and their information.
-
-It is still under development so some buttons or pages do not do anything at the moment.
+View at
