@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/MisterDetail/static/css/main.3a215396.chunk.css",
+    "main.js": "/MisterDetail/static/js/main.48662332.chunk.js",
+    "main.js.map": "/MisterDetail/static/js/main.48662332.chunk.js.map",
+    "runtime-main.js": "/MisterDetail/static/js/runtime-main.6acecd28.js",
+    "runtime-main.js.map": "/MisterDetail/static/js/runtime-main.6acecd28.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/MisterDetail/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.8fbc8824.chunk.js": "/MisterDetail/static/js/2.8fbc8824.chunk.js",
+    "static/js/2.8fbc8824.chunk.js.map": "/MisterDetail/static/js/2.8fbc8824.chunk.js.map",
+    "static/js/3.89146e26.chunk.js": "/MisterDetail/static/js/3.89146e26.chunk.js",
+    "static/js/3.89146e26.chunk.js.map": "/MisterDetail/static/js/3.89146e26.chunk.js.map",
+    "index.html": "/MisterDetail/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/MisterDetail/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.3a215396.chunk.css.map": "/MisterDetail/static/css/main.3a215396.chunk.css.map",
+    "static/js/2.8fbc8824.chunk.js.LICENSE.txt": "/MisterDetail/static/js/2.8fbc8824.chunk.js.LICENSE.txt",
+    "static/media/CamaroShine.8ac6b37e.jpg": "/MisterDetail/static/media/CamaroShine.8ac6b37e.jpg",
+    "static/media/ChallengerShine.e82408c4.jpg": "/MisterDetail/static/media/ChallengerShine.e82408c4.jpg",
+    "static/media/MisterDetailLogo.f19ab85f.png": "/MisterDetail/static/media/MisterDetailLogo.f19ab85f.png",
+    "static/media/MustangShine.308108cd.jpg": "/MisterDetail/static/media/MustangShine.308108cd.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6acecd28.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.8fbc8824.chunk.js",
+    "static/css/main.3a215396.chunk.css",
+    "static/js/main.48662332.chunk.js"
+  ]
+}
